@@ -1,5 +1,4 @@
 ---
-# Manifest file downloaded from fusion
 externalId: tr-create_asset_hierarchy
 name: create_asset_hierarchys
 query:
@@ -10,7 +9,6 @@ ignoreNullFields: true
 shared: true
 action: upsert
 dataSetExternalId: src:001:sap:ds
-# Added authentication information
 authentication:
     clientId: 63386619-90c1-4a63-ac6d-47b5968b3d8f
     clientSecret: 10I8Q~VqSSU~flJWu0129AB-I_8nTMw0haBOZdvz
