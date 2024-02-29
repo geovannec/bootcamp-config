@@ -1,5 +1,4 @@
 ---
-# Manifest file downloaded from fusion
 externalId: tr-asset-sample
 name: create_asset_sample
 query:
@@ -10,7 +9,6 @@ ignoreNullFields: true
 shared: true
 action: upsert
 dataSetExternalId: src:all
-# Added authentication information
 authentication:
     clientId: ${COGNITE_CLIENT_ID}
     clientSecret: ${COGNITE_CLIENT_SECRET}
